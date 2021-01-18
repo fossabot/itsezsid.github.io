@@ -1,0 +1,6 @@
+.vercel
+.vscode
+mailer/mail.php
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
